@@ -14,3 +14,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhdl0157)](https://solved.ac/jhdl0157)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhdl0157&hide=javascript,html,Mustache,Css&layout=compact)](https://github.com/jhdl0157/github-readme-stats)
