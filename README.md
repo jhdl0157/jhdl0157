@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=Hello%20World&fontSize=40&animation=twinklingfontColor=d7ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=To%20Infinity,%20and%20Beyond!&fontSize=40&animation=twinkling)
 
 # Skils
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
