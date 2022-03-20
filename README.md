@@ -10,13 +10,24 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/Amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
 
+### 🙆앞으로 배워볼것들
+- MSA 
+- 쿠버네티스 
+- 코틀린 
+- Elasticsearch 
+- webflux 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhdl0157&show_icons=true&theme=radical)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhdl0157)](https://solved.ac/jhdl0157)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhdl0157&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhdl0157&hide=javascript,html,Mustache,Css&layout=compact)](https://github.com/jhdl0157/github-readme-stats)
+
+
+
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
