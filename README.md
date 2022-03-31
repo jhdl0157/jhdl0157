@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
 
 ### 🙆앞으로 배워볼것들
-- MSA 
 - 쿠버네티스 
 - 코틀린 
 - Elasticsearch 
