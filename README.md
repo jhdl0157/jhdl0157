@@ -56,7 +56,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhdl0157&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhdl0157&hide=javascript,html,Mustache,Css&layout=compact)](https://github.com/jhdl0157/github-readme-stats)
+
 
 
 
