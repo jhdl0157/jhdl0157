@@ -51,8 +51,6 @@
 - webflux 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhdl0157)](https://solved.ac/jhdl0157)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhdl0157&show_icons=true&theme=radical)
 
